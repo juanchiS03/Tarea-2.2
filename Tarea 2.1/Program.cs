@@ -5,7 +5,7 @@ using System.Globalization;
 using Tarea_2._1;
 
 // Ruta del archivo CSV de entrada
-string filePath = @"C:\Users\juansanchez\Downloads\atp_matches_2015.csv";
+string filePath = @"C:\Users\juans\Downloads\atp_matches_2015.csv";
 
 // Configuración del lector CSV
 var csvConfig = new CsvConfiguration(CultureInfo.InvariantCulture)
